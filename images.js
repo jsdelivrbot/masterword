@@ -1,0 +1,15 @@
+var DIR = "Masterword_images/";
+SRC_WHITE = DIR + "circle_white.png";
+SRC_BLACK = DIR + "circle_black.png";
+SRC_NO_MATCHES = DIR + "no_matches.png";
+SRC_BLANK_EMPTY = DIR + "blank_empty.png";
+SRC_BLANK_FULL = DIR + "blank_filled.png";
+SRC_BLANK_ACTIVE = DIR + "blank_filled.png";
+SRC_BUTTON = [DIR + "button_n.png", DIR + "button_h.png", DIR + "button_d.png"];
+SRC_BUTTON_GUESS = DIR + "button_guess.png";
+SRC_BUTTON_RESTART = DIR + "button_restart.png";
+SRC_PANEL_ROOT = DIR + "panel_root.png";
+SRC_PANEL_TITLE = DIR + "frame_title.png";
+SRC_PANEL_BLANKS = DIR + "panel_blanks.png";
+SRC_PANEL_GUESSES = DIR + "panel_guesses.png";
+SRC_GUESSES_BACKGROUND = DIR + "guesses_background.png";
