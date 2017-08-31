@@ -1,4 +1,4 @@
-var DIR = "Masterword_images/";
+var DIR = "./images/";
 SRC_WHITE = DIR + "circle_white.png";
 SRC_BLACK = DIR + "circle_black.png";
 SRC_NO_MATCHES = DIR + "no_matches.png";
